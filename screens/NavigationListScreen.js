@@ -121,7 +121,7 @@ export default function NavigationListScreen({
         />
 
 
-      </Pressable>  /* ปิด stack 1 */
+      </Pressable>  
 
 
 
@@ -190,7 +190,7 @@ export default function NavigationListScreen({
         />
 
 
-      </Pressable>  /* ปิด stack 2 */
+      </Pressable>  
 
 
 
@@ -259,7 +259,7 @@ export default function NavigationListScreen({
         />
 
 
-      </Pressable>  /* ปิด stack 3 */
+      </Pressable> 
 
 
     </View>
